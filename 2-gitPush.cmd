@@ -3,4 +3,4 @@ git status
 git add .
 git commit -m "up+"
 git pull
-git push -u origin master
+git push -u origin main
